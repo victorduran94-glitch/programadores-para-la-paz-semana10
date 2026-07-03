@@ -1,0 +1,10 @@
+1. Como ciudadano quiero registrar una incidencia con foto y ubicación para dejar evidencia clara del caso y facilitar su verificación.
+
+2. Como coordinador de la veeduría quiero recibir una notificación en mi correo o Telegram cada vez que se reporte una incidencia nueva para poder revisarla y asignarla rápidamente.
+
+3. Como miembro del equipo quiero consultar el listado de incidencias por estado (recibida, en revisión, resuelta) para hacer seguimiento y priorizar las más urgentes.
+
+4. Como administrador quiero asignar cada incidencia a un responsable específico dentro del equipo para que haya claridad sobre quién debe atender cada caso.
+
+5. Como ciudadano quiero consultar el historial de incidencias resueltas en mi barrio para conocer qué problemas se han atendido y cómo se solucionaron.
+
